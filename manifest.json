@@ -1,0 +1,14 @@
+{
+	"name": "Tenochtitlan",
+	"version_number": "1.1.0",
+	"website_url": "",
+	"description": "A Lethal Company modpack for friends.",
+	"dependencies": [
+		"Suskitech-AlwaysHearActiveWalkies-1.4.3",
+		"BepInEx-BepInExPack-5.4.2100",
+		"sunnobunno-BonkHitSFX-1.0.4",
+		"Nips-Brutal_Company_Plus",
+		"anormaltwig-LateCompany-1.0.7",
+		""
+	]
+}
