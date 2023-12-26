@@ -1,2 +1,2 @@
-# 1.0.0
-- Live modpack
+# Tenochtitlan
+A Lethal Company modpack for friends.
