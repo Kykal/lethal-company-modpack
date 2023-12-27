@@ -1,6 +1,6 @@
 {
 	"name": "Tenochtitlan",
-	"version_number": "1.1.0",
+	"version_number": "1.2.0",
 	"website_url": "https://github.com/Kykal/lethal-company-modpack",
 	"description": "A Lethal Company modpack for friends.",
 	"dependencies": [
@@ -8,7 +8,6 @@
 		"BepInEx-BepInExPack-5.4.2100",
 		"PopleZoo-BetterItemScan-2.1.6",
 		"sunnobunno-BonkHitSFX-1.0.4",
-		"Nips-Brutal_Company_Plus-3.5.1",
 		"anormaltwig-LateCompany-1.0.7",
 		"2018-LC_API-3.1.0",
 		"x753-Mimics-2.3.0",
