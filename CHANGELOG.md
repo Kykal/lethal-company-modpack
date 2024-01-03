@@ -1,3 +1,6 @@
+# 1.3.0
+- Change emotes dependency
+
 # 1.2.0
 - Remove Nips Brutal_Company_Plus
 
