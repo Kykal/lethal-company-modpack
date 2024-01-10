@@ -1,3 +1,6 @@
+# 1.5.0
+- Change emotes dependency
+
 # 1.4.0
 - Change emotes dependency
 
